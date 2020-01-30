@@ -31,3 +31,4 @@ print("Hello Capstone Project course!")
 
 4. Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
+The link of this github repository is https://www.github.com/khemanta/Coursera_Capstone 
