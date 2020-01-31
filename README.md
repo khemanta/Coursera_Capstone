@@ -5,7 +5,7 @@ This markdown file is about the Capstone Project.
 
 What I have done is created this repo on my github account which https://www.github.com/khemanta/Coursera_Capstone 
 
-I will alos create Jupyter Notebook, (**capstone.ipynb**) which does the followings:  
+I will alos create Jupyter Notebook, (**coursera_capstone_notebook.ipynb**) which does the followings:  
 
 **This markdown to explain that this notebook will be mainly used for the capstone project.**
 
