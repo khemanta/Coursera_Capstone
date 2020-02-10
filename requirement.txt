@@ -1,0 +1,13 @@
+beautifulsoup4
+lxml
+
+requests
+html5lib
+
+geopy
+folium
+
+pandas
+numpy
+scipy
+scikit-learn

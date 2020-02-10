@@ -11,7 +11,10 @@ I will alos create Jupyter Notebook, (**coursera_capstone_notebook.ipynb**) whic
 
 Fowllowing steps of code block I have created.
 
- 1. Import the pandas library as pd.
+
+### Assignment # Week 1
+
+1. Import the pandas library as pd.
 
 ```
 import pandas as pd
@@ -31,4 +34,29 @@ print("Hello Capstone Project course!")
 
 4. Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
-The link of this github repository is https://www.github.com/khemanta/Coursera_Capstone 
+The link of this github repository is https://www.github.com/khemanta/Coursera_Capstone
+
+
+### Assignment # Week 3
+
+#### For the web-scraping and reading the data from table of wikipedia page of Canada postal code.
+
+geographic-segmentation-and-clustering.ipynb
+
+1. WEB-SCRAPING THE WIKIPEDIA PAGE FOR TABLE OF POSTAL CODE OF CANADA
+
+2. INSPECTING THE SOURCE-CODE OF THE WEBPAGE 
+
+3. DATA PRE-PROCESSING, CLEANING AND CONEVRT TO DATAFRAME
+
+### Assignment # Week 4
+
+4. READING THE LATITUDE AND LONGITUDE INFORMATION FROM GEOSPATIAL DATA
+5. MERGING OF THE NEIGHBORHOOD POSTAL CODE WITH GEO-CODE (LAT, LON)
+
+6. SEGMENTATION & CLUSTERING OF THE NEIGHBOURHOOD OF TORONTO
+7. CLUSTERING OF THE NEIGHBORHOODS AND VISUALIZATION
+
+### Assignment # Week 5
+
+
